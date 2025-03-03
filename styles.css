@@ -80,3 +80,10 @@ blockquote cite {
 #tribute-link:hover {
     text-decoration: underline;
 }
+
+/* Style the headings */
+h2, h3 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
